@@ -1,0 +1,92 @@
+/* css for tag of ul */
+#image{
+	  height: 100%;
+	  width: 700px;
+	  margin: 100px 50px 100px 100px;
+	  border-radius: 25px;
+	}
+
+.img{   font-size: 35px;
+	    color: rgb(246,244,247);
+	    text-align: center;
+		background-image: url("images/im3.jpg");	
+		background-position: center;
+		background-attachment: fixed;
+		border-radius: 15px;
+
+		
+}
+#service{
+	     text-align: center;
+       color: rgb(181,112,12);
+       font-size: 30px;
+       background-image: url("images/im11.jpg");
+
+       border: 5px outset rgb(189,215,246);
+    	
+    	margin: 30px 266px 0px 241px;
+
+}
+.our_service{
+	        margin: 30px 30px 20px 40px;
+	        border-radius: 183px 196px 25px 25px;
+	        height: 300px;
+	        width: 250px;
+}
+.list{
+	text-align: left;
+	color: rgb(104,42,36);
+
+	font-size: 30px;
+	border-radius: 30px;
+     background-image: url("images/im11.jpg");
+     background-position: center;
+	
+    
+	border: 3px dotted purple;
+    margin: 40px 2px 20px 0px;
+    
+       padding: 5px;
+}
+
+#mission{
+	        font-size: 30px;
+	        text-align: center;
+			color: darkgreen;
+
+			background-color: rgb(189,215,246);
+			background-attachment: fixed;			
+			border: 150px solid rgb(189,215,246);
+			border-radius: 15px;
+}
+.team{
+
+       text-align: center;
+       color: rgb(181,112,12);
+       font-size: 30px;
+       background-image: url("images/im11.jpg");
+
+       border: 5px inset rgb(189,215,246);
+    	
+    	margin: 30px 266px 0px 241px;
+
+}
+#team1{
+
+	border: 5px groove darkcyan;
+    border-radius: 50%;
+    width: 800px;
+    padding: 10px;
+    margin: 30px 250px;
+}
+#contact{
+		
+       text-align: center;
+       color: rgb(181,112,12);
+       font-size: 30px;
+       background-color: lightblue;
+
+       border: 5px double rgb(189,215,246);
+    	
+    	margin: 30px 266px 30px 241px;	
+}
